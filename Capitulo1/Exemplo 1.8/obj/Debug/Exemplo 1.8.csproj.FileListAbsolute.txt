@@ -1,0 +1,6 @@
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\bin\Debug\Exemplo 1.8.exe.config
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\bin\Debug\Exemplo 1.8.exe
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\bin\Debug\Exemplo 1.8.pdb
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\obj\Debug\Exemplo 1.8.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\obj\Debug\Exemplo 1.8.exe
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.8\obj\Debug\Exemplo 1.8.pdb
