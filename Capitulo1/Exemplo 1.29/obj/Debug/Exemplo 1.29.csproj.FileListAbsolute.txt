@@ -1,0 +1,5 @@
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.29\bin\Debug\Exemplo 1.29.exe.config
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.29\bin\Debug\Exemplo 1.29.exe
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.29\bin\Debug\Exemplo 1.29.pdb
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.29\obj\Debug\Exemplo 1.29.exe
+C:\Users\Diego\Documents\Code\C#\Certificação\70-483\Capitulo1\Exemplo 1.29\obj\Debug\Exemplo 1.29.pdb
